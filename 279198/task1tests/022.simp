@@ -11,6 +11,7 @@ while ((a <= n) & (m > 1)) do {
     print a; print space;
     m := (m / a)
   };
+
   if flag then {
     print newline;
     flag := false
