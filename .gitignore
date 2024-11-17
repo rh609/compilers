@@ -1,5 +1,6 @@
 # Ignore Gradle build directories
 .gradle/
+279198/gradle/
 build/
 
 # Ignore IntelliJ IDEA project files
